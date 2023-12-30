@@ -1,15 +1,20 @@
 const express = require("express");
 const app = express();
 const materialsRoutes = require("./routes/materialsRoutes");
+const categoriesRoutes = require("./routes/categoriesRoutes");
 
 const PORT = 8080;
 
+app.use(express.static("public"));
+
+app.use(express.json());
+
+app.use("/categories", categoriesRoutes);
 app.use("/materials", materialsRoutes);
 
 //to test get request to localhost:8080
 
 app.get("/", (_req, res) => {
-  console.log("Welcome to my server!!");
   res.send("Yay, it worked!!!");
 });
 
