@@ -2,27 +2,27 @@
   {
     "id": 1,
     "name": "Floor Finishes",
-    "image": "http://localhost:8080/public/images/floor-finishes-cover.jpg"
+    "image": "http://localhost:8080/images/floor-finishes-cover.jpg"
   },
   {
     "id": 2,
     "name": "Wall Claddings",
-    "image": "http://localhost:8080/public/images/wall-cladding-cover.jpg"
+    "image": "http://localhost:8080/images/wall-cladding-cover.jpg"
   },
   {
     "id": 3,
     "name": "Partition Materials",
-    "image": "http://localhost:8080/public/images/partitions-cover.svg"
+    "image": "http://localhost:8080/images/partitions-cover.svg"
   },
   {
     "id": 4,
     "name": "Doors & Windows",
-    "image": "http://localhost:8080/public/images/doors-and-windows-cover.svg"
+    "image": "http://localhost:8080/images/doors-and-windows-cover.svg"
   },
 
   {
     "id": 5,
     "name": "Handcrafted Decor",
-    "image": "http://localhost:8080/public/images/floor-finishes-cover.jpg"
+    "image": "http://localhost:8080/images/floor-finishes-cover.jpg"
   }
 ]
