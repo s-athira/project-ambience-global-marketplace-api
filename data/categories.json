@@ -21,7 +21,7 @@
   },
   {
     "id": 5,
-    "name": "Home Decor",
-    "image": "http://localhost:8080/images/floor-finishes-cover.svg"
+    "name": "Ceiling Finishes",
+    "image": "http://localhost:8080/images/ceiling-finishes-cover.svg"
   }
 ]
