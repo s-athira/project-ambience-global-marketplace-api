@@ -2,26 +2,31 @@
   {
     "id": 1,
     "name": "Wall Claddings",
-    "image": "http://localhost:8080/images/wall-cladding-cover.svg"
+    "image": "http://localhost:8080/images/wall-cladding-cover.svg",
+    "bannerimg": "http://localhost:8080/images/banners/wall-cladding-banner-img.svg"
   },
   {
     "id": 2,
     "name": "Partition Materials",
-    "image": "http://localhost:8080/images/partitions-cover.svg"
+    "image": "http://localhost:8080/images/partitions-cover.svg",
+    "bannerimg": "http://localhost:8080/images/banners/partitions-banner-img.svg"
   },
   {
     "id": 3,
     "name": "Doors & Windows",
-    "image": "http://localhost:8080/images/doors-and-windows-cover.svg"
+    "image": "http://localhost:8080/images/doors-and-windows-cover.svg",
+    "bannerimg": "http://localhost:8080/images/banners/doors-and-windows-banner-img.svg"
   },
   {
     "id": 4,
     "name": "Floor Finishes",
-    "image": "http://localhost:8080/images/floor-finishes-cover.svg"
+    "image": "http://localhost:8080/images/floor-finishes-cover.svg",
+    "bannerimg": "http://localhost:8080/images/banners/floor-finishes-banner-img.svg"
   },
   {
     "id": 5,
     "name": "Ceiling Finishes",
-    "image": "http://localhost:8080/images/ceiling-finishes-cover.svg"
+    "image": "http://localhost:8080/images/ceiling-finishes-cover.svg",
+    "bannerimg": "http://localhost:8080/images/banners/ceilings-banner-img.svg"
   }
 ]
