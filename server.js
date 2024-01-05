@@ -17,16 +17,11 @@ app.use("/materials", materialsRoutes);
 // Create a router for the root path "/"
 const rootRouter = express.Router();
 
-// Import the entire module (router and getCategories are exported as properties)
-const categoriesModule = require("./routes/categoriesRoutes");
-
-// Attach the route handling logic for GET and POST requests
 rootRouter
   .route("/")
   .get((_req, res) => {
-    // Handle GET requests for the root path by sending categories data
-    const categoriesData = categoriesModule.getCategories();
-    res.json(categoriesData);
+    // Handle GET requests for the root path
+    res.send("Yay, it worked!!!");
   })
   .post((_req, res) => {
     // Handle POST requests for the root path
