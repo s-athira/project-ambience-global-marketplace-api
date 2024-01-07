@@ -4,6 +4,12 @@
     "name": "Turkish Hand-Painted Tiles",
     "style": "Turkish Ottoman",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "200 x 200 x 8 mm",
     "required": "1.5 Nos/Sq.Ft",
     "weight": "~1.8 Kg",
@@ -19,6 +25,12 @@
     "name": "Mediterranian Terracotta Panels",
     "style": "Mediterranian",
     "image": "http://localhost:8080/images/materials/terracotta-jali-partition.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "900 x 1800 x 6 mm",
     "required": "1.2 Nos/Sq.Ft",
     "weight": "~2.0 Kg",
@@ -35,6 +47,12 @@
     "name": "Athangudi Tiles",
     "style": "Tamil Nadu Traditional",
     "image": "http://localhost:8080/images/materials/athangudi-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "250 x 250 x 20 mm",
     "required": "1.8 Nos/Sq.Ft",
     "weight": "~3.2 Kg",
@@ -50,6 +68,12 @@
     "name": "Marrakech Zellige Tiles",
     "style": "Moroccan",
     "image": "http://localhost:8080/images/materials/moroccan-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "150 x 150 x 8 mm",
     "required": "1.2 Nos/Sq.Ft",
     "weight": "~1.5 Kg",
@@ -65,6 +89,12 @@
     "name": "Venetian Terrazzo Flooring",
     "style": "Venetian Renaissance",
     "image": "http://localhost:8080/images/materials/athangudi-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "300 x 300 x 15 mm",
     "required": "2.0 Nos/Sq.Ft",
     "weight": "~4.0 Kg",
@@ -80,6 +110,12 @@
     "name": "Balinese Batik Textiles",
     "style": "Balinese",
     "image": "http://localhost:8080/images/materials/moroccan-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "N/A",
     "required": "N/A",
     "weight": "~0.5 Kg/m²",
@@ -95,6 +131,12 @@
     "name": "Portuguese Azulejos Tiles",
     "style": "Portuguese",
     "image": "http://localhost:8080/images/materials/moroccan-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "200 x 200 x 10 mm",
     "required": "1.5 Nos/Sq.Ft",
     "weight": "~2.0 Kg",
@@ -110,6 +152,12 @@
     "name": "Burmese Teak Wood Flooring",
     "style": "Burmese",
     "image": "http://localhost:8080/images/materials/athangudi-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "150 x 1200 x 15 mm",
     "required": "1.8 Nos/Sq.Ft",
     "weight": "~3.5 Kg",
@@ -125,6 +173,12 @@
     "name": "Japanese Washi Paper Wall Coverings",
     "style": "Japanese",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "N/A",
     "required": "N/A",
     "weight": "~0.2 Kg/m²",
@@ -140,6 +194,12 @@
     "name": "Moroccan Zellige Tiles",
     "style": "Moroccan",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "100 x 100 x 8 mm",
     "required": "2.0 Nos/Sq.Ft",
     "weight": "~1.8 Kg",
@@ -155,6 +215,12 @@
     "name": "Italian Carrara Marble Flooring",
     "style": "Italian",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "300 x 600 x 18 mm",
     "required": "1.5 Nos/Sq.Ft",
     "weight": "~4.2 Kg",
@@ -170,6 +236,12 @@
     "name": "Indian Bidriware Inlay Panel",
     "style": "Indian",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "600 x 1200 x 20 mm",
     "required": "N/A",
     "weight": "~5.5 Kg",
@@ -185,6 +257,12 @@
     "name": "Japanese Shou Sugi Ban Wood",
     "style": "Japanese",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "150 x 1200 x 15 mm",
     "required": "1.2 Nos/Sq.Ft",
     "weight": "~2.8 Kg",
@@ -200,6 +278,12 @@
     "name": "Mexican Talavera Ceramic Tiles",
     "style": "Mexican",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "120 x 120 x 10 mm",
     "required": "2.5 Nos/Sq.Ft",
     "weight": "~1.5 Kg",
@@ -215,6 +299,12 @@
     "name": "Spanish Alhambra Mosaic Flooring",
     "style": "Spanish",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "200 x 200 x 12 mm",
     "required": "1.8 Nos/Sq.Ft",
     "weight": "~3.4 Kg",
@@ -230,6 +320,12 @@
     "name": "Moroccan Zellige Tiles",
     "style": "Moroccan",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "100 x 100 x 8 mm",
     "required": "2.0 Nos/Sq.Ft",
     "weight": "~1.2 Kg",
@@ -245,6 +341,12 @@
     "name": "Italian Carrara Marble",
     "style": "Italian",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "300 x 600 x 20 mm",
     "required": "1.5 Nos/Sq.Ft",
     "weight": "~8.5 Kg",
@@ -260,6 +362,12 @@
     "name": "Indian Bidriware Inlay",
     "style": "Indian",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "75 x 75 x 5 mm",
     "required": "2.8 Nos/Sq.Ft",
     "weight": "~0.9 Kg",
@@ -275,6 +383,12 @@
     "name": "Portuguese Azulejo Tiles",
     "style": "Portuguese",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "150 x 150 x 10 mm",
     "required": "1.8 Nos/Sq.Ft",
     "weight": "~1.5 Kg",
@@ -290,6 +404,12 @@
     "name": "Kerala Bamboo Matting",
     "style": "Kerala",
     "image": "http://localhost:8080/images/materials/bamboo-window-blinds.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "1200 x 1800 mm",
     "required": "N/A",
     "weight": "~1.5 Kg/Sheet",
@@ -306,6 +426,12 @@
     "name": "Turkish Iznik Ceramics",
     "style": "Turkish",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "120 x 120 x 12 mm",
     "required": "2.2 Nos/Sq.Ft",
     "weight": "~1.8 Kg",
@@ -321,6 +447,12 @@
     "name": "Moroccan Zellige Tiles",
     "style": "Moroccan",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "100 x 100 x 8 mm",
     "required": "1.5 Nos/Sq.Ft",
     "weight": "~1.2 Kg",
@@ -336,6 +468,12 @@
     "name": "African Terracotta Roof Tiles",
     "style": "African",
     "image": "http://localhost:8080/images/materials/terracota-ceiling-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "300 x 300 x 20 mm",
     "required": "N/A",
     "weight": "~2.5 Kg/Tile",
@@ -351,6 +489,12 @@
     "name": "Balinese Batik Fabrics",
     "style": "Balinese",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "900 x 1200 mm",
     "required": "N/A",
     "weight": "~1.0 Kg",
@@ -366,6 +510,12 @@
     "name": "Gothic Stained Glass Panels",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "500 x 300 x 6 mm",
     "required": "N/A",
     "weight": "~2.5 Kg",
@@ -382,6 +532,12 @@
     "name": "Mexican Talavera Pottery",
     "style": "Mexican",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "Various Sizes",
     "required": "N/A",
     "weight": "~1.5 Kg",
@@ -397,6 +553,12 @@
     "name": "Turkish Iznik Ceramics",
     "style": "Turkish",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "150 x 150 mm",
     "required": "N/A",
     "weight": "~1.8 Kg",
@@ -412,6 +574,12 @@
     "name": "Japanese Shoji Screens",
     "style": "Japanese",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "900 x 1800 mm",
     "required": "N/A",
     "weight": "~2.0 Kg",
@@ -427,6 +595,12 @@
     "name": "Mexican Talavera Ceramic Tiles",
     "style": "Mexican",
     "image": "http://localhost:8080/images/materials/moroccan-tiles.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "200 x 200 x 10 mm",
     "required": "1.8 Tiles/Sq.Ft",
     "weight": "~0.6 Kg/Tile",
@@ -442,6 +616,12 @@
     "name": "Peruvian Handwoven Textiles",
     "style": "Peruvian",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "1200 x 1800 mm",
     "required": "N/A",
     "weight": "~3.5 Kg",
@@ -457,6 +637,12 @@
     "name": "Gothic Stained Glass Panels",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass2.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "500 x 300 x 6 mm",
     "required": "N/A",
     "weight": "~2.5 Kg",
@@ -472,6 +658,12 @@
     "name": "Gothic Stained Glass Panels",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass3.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "500 x 300 x 6 mm",
     "required": "N/A",
     "weight": "~2.5 Kg",
@@ -487,6 +679,12 @@
     "name": "Gothic Stained Glass Panels",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass4.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "500 x 300 x 6 mm",
     "required": "N/A",
     "weight": "~2.5 Kg",
@@ -502,6 +700,12 @@
     "name": "Gothic Stained Glass Panels",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass5.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "500 x 300 x 6 mm",
     "required": "N/A",
     "weight": "~2.5 Kg",
@@ -517,6 +721,12 @@
     "name": "Gothic Stained Glass Panels",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass6.svg",
+    "more_images": [
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg",
+      "http://localhost:8080/images/materials/turkish_ceramic.svg"
+    ],
     "dimensions": "500 x 300 x 6 mm",
     "required": "N/A",
     "weight": "~2.5 Kg",
