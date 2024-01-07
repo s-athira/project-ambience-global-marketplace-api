@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Turkish Hand-Painted Ceramic Tiles",
+    "name": "Turkish Hand-Painted Tiles",
     "style": "Turkish Ottoman",
     "image": "http://localhost:8080/images/materials/turkish_ceramic.svg",
     "dimensions": "200 x 200 x 8 mm",
@@ -11,7 +11,8 @@
     "category_ids": [4, 1],
     "colors": ["Turquoise", "Cobalt Blue"],
     "min_order_quantity": 30,
-    "description": "Authentic Turkish Ottoman ceramic tiles, hand-painted with intricate patterns, bringing the rich heritage of Turkish art to your walls and floors."
+    "description": "Authentic Turkish Ottoman ceramic tiles, hand-painted with intricate patterns, bringing the rich heritage of Turkish art to your walls and floors.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
     "category_ids": [2, 5],
     "colors": ["Translucent Rice Paper"],
     "min_order_quantity": 8,
-    "description": "Japanese Shoji Screens, featuring translucent rice paper, embody the simplicity and elegance of Japanese design, creating serene door and window solutions."
+    "description": "Japanese Shoji Screens, featuring translucent rice paper, embody the simplicity and elegance of Japanese design, creating serene door and window solutions.",
+    "price": "$9.99 per unit"
   },
 
   {
@@ -40,7 +42,8 @@
     "category_ids": [4, 1],
     "colors": ["Earthy Brown", "Mango Yellow"],
     "min_order_quantity": 25,
-    "description": "Traditional Attangudi tiles from Tamil Nadu, India, known for their vibrant colors and unique patterns, adding a touch of South Indian charm to your floors."
+    "description": "Traditional Athangudi tiles from Tamil Nadu, India, known for their vibrant colors and unique patterns, adding a touch of South Indian charm to your floors.",
+    "price": "$13.99 per unit"
   },
   {
     "id": 4,
@@ -54,7 +57,8 @@
     "category_ids": [4, 1],
     "colors": ["Azure Blue", "Saffron Yellow"],
     "min_order_quantity": 20,
-    "description": "Marrakech Zellige tiles, handcrafted in Morocco, known for their vibrant colors and geometric patterns, capturing the essence of Moroccan architecture."
+    "description": "Marrakech Zellige tiles, handcrafted in Morocco, known for their vibrant colors and geometric patterns, capturing the essence of Moroccan architecture.",
+    "price": "$11.99 per unit"
   },
   {
     "id": 5,
@@ -68,7 +72,8 @@
     "category_ids": [4],
     "colors": ["Marble White", "Terracotta"],
     "min_order_quantity": 15,
-    "description": "Venetian Terrazzo flooring, inspired by Renaissance architecture in Venice, Italy, showcasing the timeless beauty of marble chips embedded in cement."
+    "description": "Venetian Terrazzo flooring, inspired by Renaissance architecture in Venice, Italy, showcasing the timeless beauty of marble chips embedded in cement.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 6,
@@ -82,7 +87,8 @@
     "category_ids": [1],
     "colors": ["Indigo Blue", "Earthen Brown"],
     "min_order_quantity": 50,
-    "description": "Exquisite Balinese Batik textiles, featuring traditional patterns and colors, adding a touch of Balinese culture and artistry to your walls."
+    "description": "Exquisite Balinese Batik textiles, featuring traditional patterns and colors, adding a touch of Balinese culture and artistry to your walls.",
+    "price": "$8.99 per unit"
   },
   {
     "id": 7,
@@ -96,7 +102,8 @@
     "category_ids": [1],
     "colors": ["Cerulean Blue", "Sunset Yellow"],
     "min_order_quantity": 25,
-    "description": "Portuguese Azulejos tiles, a symbol of Portuguese culture, featuring intricate patterns and vivid colors, perfect for creating a stunning focal point on your walls."
+    "description": "Portuguese Azulejos tiles, a symbol of Portuguese culture, featuring intricate patterns and vivid colors, perfect for creating a stunning focal point on your walls.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 8,
@@ -110,7 +117,8 @@
     "category_ids": [4],
     "colors": ["Natural Teak", "Mahogany"],
     "min_order_quantity": 18,
-    "description": "Burmese Teak Wood flooring, known for its durability and rich color variations, adding warmth and elegance to any space."
+    "description": "Burmese Teak Wood flooring, known for its durability and rich color variations, adding warmth and elegance to any space.",
+    "price": "$16.99 per unit"
   },
   {
     "id": 9,
@@ -124,7 +132,8 @@
     "category_ids": [1],
     "colors": ["Soft Ivory", "Cherry Blossom Pink"],
     "min_order_quantity": 30,
-    "description": "Japanese Washi Paper wall coverings, reflecting the minimalist aesthetics of Japanese design, allowing diffused light to create a serene ambiance."
+    "description": "Japanese Washi Paper wall coverings, reflecting the minimalist aesthetics of Japanese design, allowing diffused light to create a serene ambiance.",
+    "price": "$15.99 per unit"
   },
   {
     "id": 10,
@@ -138,7 +147,8 @@
     "category_ids": [1],
     "colors": ["Emerald Green", "Spice Red"],
     "min_order_quantity": 20,
-    "description": "Moroccan Zellige tiles, handcrafted by skilled artisans, showcase vibrant geometric patterns and bold colors, adding a touch of exoticism to your walls."
+    "description": "Moroccan Zellige tiles, handcrafted by skilled artisans, showcase vibrant geometric patterns and bold colors, adding a touch of exoticism to your walls.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 11,
@@ -152,7 +162,8 @@
     "category_ids": [4],
     "colors": ["White with Grey Veins"],
     "min_order_quantity": 15,
-    "description": "Italian Carrara Marble flooring, renowned for its timeless beauty and classic elegance, transforms spaces into luxurious sanctuaries."
+    "description": "Italian Carrara Marble flooring, renowned for its timeless beauty and classic elegance, transforms spaces into luxurious sanctuaries.",
+    "price": "$22.99 per unit"
   },
   {
     "id": 12,
@@ -166,7 +177,8 @@
     "category_ids": [1],
     "colors": ["Silver Inlay on Black"],
     "min_order_quantity": 10,
-    "description": "Indian Bidriware Inlay Panel, a masterpiece of Indian craftsmanship, featuring intricate silver inlay work on a black background, adding opulence to your walls."
+    "description": "Indian Bidriware Inlay Panel, a masterpiece of Indian craftsmanship, featuring intricate silver inlay work on a black background, adding opulence to your walls.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 13,
@@ -180,7 +192,8 @@
     "category_ids": [4, 1],
     "colors": ["Charred Black"],
     "min_order_quantity": 12,
-    "description": "Japanese Shou Sugi Ban Wood, a traditional technique of charring wood for enhanced durability, offers a distinct and rich aesthetic to both walls and floors."
+    "description": "Japanese Shou Sugi Ban Wood, a traditional technique of charring wood for enhanced durability, offers a distinct and rich aesthetic to both walls and floors.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 14,
@@ -194,7 +207,8 @@
     "category_ids": [1],
     "colors": ["Colorful Hand-Painted Patterns"],
     "min_order_quantity": 18,
-    "description": "Mexican Talavera Ceramic Tiles, adorned with vibrant and intricate hand-painted patterns, bring the warmth and artistry of Mexican culture to your walls."
+    "description": "Mexican Talavera Ceramic Tiles, adorned with vibrant and intricate hand-painted patterns, bring the warmth and artistry of Mexican culture to your walls.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 15,
@@ -208,7 +222,8 @@
     "category_ids": [4],
     "colors": ["Majestic Blue, Terracotta, Gold"],
     "min_order_quantity": 20,
-    "description": "Spanish Alhambra Mosaic Flooring, inspired by the intricate patterns of the Alhambra palace, exudes a blend of history and elegance for your floors."
+    "description": "Spanish Alhambra Mosaic Flooring, inspired by the intricate patterns of the Alhambra palace, exudes a blend of history and elegance for your floors.",
+    "price": "$10.89 per unit"
   },
   {
     "id": 16,
@@ -222,7 +237,8 @@
     "category_ids": [4, 1],
     "colors": ["Vibrant Geometric Patterns"],
     "min_order_quantity": 15,
-    "description": "Moroccan Zellige Tiles, famous for their vibrant geometric patterns, bring the exotic beauty of Moroccan design to your walls and floors."
+    "description": "Moroccan Zellige Tiles, famous for their vibrant geometric patterns, bring the exotic beauty of Moroccan design to your walls and floors.",
+    "price": "$12.99 per unit"
   },
   {
     "id": 17,
@@ -236,7 +252,8 @@
     "category_ids": [4],
     "colors": ["Classic White with Gray Veining"],
     "min_order_quantity": 10,
-    "description": "Italian Carrara Marble, renowned for its timeless elegance, adds a touch of luxury to your floors with its classic white appearance and gray veins."
+    "description": "Italian Carrara Marble, renowned for its timeless elegance, adds a touch of luxury to your floors with its classic white appearance and gray veins.",
+    "price": "$16.99 per unit"
   },
   {
     "id": 18,
@@ -250,7 +267,8 @@
     "category_ids": [1],
     "colors": ["Silver Inlay on Black Base"],
     "min_order_quantity": 25,
-    "description": "Indian Bidriware Inlay, showcasing intricate silver inlay on a black base, adds a touch of Indian craftsmanship and heritage to your walls."
+    "description": "Indian Bidriware Inlay, showcasing intricate silver inlay on a black base, adds a touch of Indian craftsmanship and heritage to your walls.",
+    "price": "$19.99 per unit"
   },
   {
     "id": 19,
@@ -264,7 +282,8 @@
     "category_ids": [4, 1],
     "colors": ["Blue and White Patterns"],
     "min_order_quantity": 20,
-    "description": "Portuguese Azulejo Tiles, known for their distinctive blue and white patterns, bring a touch of Portugal's rich cultural history to your walls and floors."
+    "description": "Portuguese Azulejo Tiles, known for their distinctive blue and white patterns, bring a touch of Portugal's rich cultural history to your walls and floors.",
+    "price": "$11.00 per unit"
   },
   {
     "id": 20,
@@ -278,7 +297,8 @@
     "category_ids": [3],
     "colors": ["Natural Bamboo"],
     "min_order_quantity": 300,
-    "description": "Kerala Bamboo Matting, handwoven from natural bamboo, adds an eco-friendly touch to your floors and ceilings. The traditional craftsmanship of Kerala is reflected in each sheet, providing a sustainable and elegant solution."
+    "description": "Kerala Bamboo Matting, handwoven from natural bamboo, adds an eco-friendly touch to your floors and ceilings. The traditional craftsmanship of Kerala is reflected in each sheet, providing a sustainable and elegant solution.",
+    "price": "$18.99 per unit"
   },
 
   {
@@ -293,7 +313,8 @@
     "category_ids": [4, 1],
     "colors": ["Vibrant Floral Patterns"],
     "min_order_quantity": 18,
-    "description": "Turkish Iznik Ceramics, adorned with vibrant floral patterns, showcase the artistic brilliance of Turkish craftsmanship, adding a touch of Anatolian beauty to your space."
+    "description": "Turkish Iznik Ceramics, adorned with vibrant floral patterns, showcase the artistic brilliance of Turkish craftsmanship, adding a touch of Anatolian beauty to your space.",
+    "price": "$10.99 per unit"
   },
   {
     "id": 22,
@@ -307,7 +328,8 @@
     "category_ids": [4, 1],
     "colors": ["Vibrant Geometric Patterns"],
     "min_order_quantity": 15,
-    "description": "Moroccan Zellige Tiles, characterized by vibrant geometric patterns, reflect the rich history and cultural heritage of Morocco, bringing warmth and elegance to your walls and floors."
+    "description": "Moroccan Zellige Tiles, characterized by vibrant geometric patterns, reflect the rich history and cultural heritage of Morocco, bringing warmth and elegance to your walls and floors.",
+    "price": "$17.99 per unit"
   },
   {
     "id": 23,
@@ -321,7 +343,8 @@
     "category_ids": [5],
     "colors": ["Earthy Terracotta"],
     "min_order_quantity": 200,
-    "description": "African Terracotta Roof Tiles, made from earthy terracotta, embrace the traditional roofing style of Africa, providing both aesthetic appeal and durability to protect your home."
+    "description": "African Terracotta Roof Tiles, made from earthy terracotta, embrace the traditional roofing style of Africa, providing both aesthetic appeal and durability to protect your home.",
+    "price": "$7.99 per unit"
   },
   {
     "id": 24,
@@ -335,7 +358,8 @@
     "category_ids": [1],
     "colors": ["Earth Tones with Batik Patterns"],
     "min_order_quantity": 12,
-    "description": "Balinese Batik Fabrics, featuring earth tones and intricate batik patterns, capture the essence of Balinese artistry, bringing a touch of tropical elegance to your walls and home decor."
+    "description": "Balinese Batik Fabrics, featuring earth tones and intricate batik patterns, capture the essence of Balinese artistry, bringing a touch of tropical elegance to your walls and home decor.",
+    "price": "$21.00 per unit"
   },
   {
     "id": 25,
@@ -349,7 +373,8 @@
     "category_ids": [2, 3],
     "colors": ["Ruby Red", "Emerald Green"],
     "min_order_quantity": 10,
-    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings."
+    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
+    "price": "$10.99 per unit"
   },
 
   {
@@ -364,7 +389,8 @@
     "category_ids": [3],
     "colors": ["Vibrant Talavera Patterns"],
     "min_order_quantity": 10,
-    "description": "Mexican Talavera Pottery, adorned with vibrant Talavera patterns, represents the rich Mexican tradition of hand-painted ceramics, adding a splash of color to your home decor and garden."
+    "description": "Mexican Talavera Pottery, adorned with vibrant Talavera patterns, represents the rich Mexican tradition of hand-painted ceramics, adding a splash of color to your home decor and garden.",
+    "price": "$12.50 per unit"
   },
   {
     "id": 27,
@@ -378,7 +404,8 @@
     "category_ids": [4, 1],
     "colors": ["Iznik Floral Motifs"],
     "min_order_quantity": 15,
-    "description": "Turkish Iznik Ceramics, featuring intricate Iznik floral motifs, showcase the historical craftsmanship of Turkish ceramics, bringing an air of sophistication to your walls and floors."
+    "description": "Turkish Iznik Ceramics, featuring intricate Iznik floral motifs, showcase the historical craftsmanship of Turkish ceramics, bringing an air of sophistication to your walls and floors.",
+    "price": "$14.99 per unit"
   },
   {
     "id": 28,
@@ -392,7 +419,8 @@
     "category_ids": [3],
     "colors": ["Natural Wood with Rice Paper"],
     "min_order_quantity": 8,
-    "description": "Japanese Shoji Screens, crafted with natural wood and rice paper, epitomize Japanese minimalism and elegance, allowing soft diffused light to grace your doors, windows, and home decor."
+    "description": "Japanese Shoji Screens, crafted with natural wood and rice paper, epitomize Japanese minimalism and elegance, allowing soft diffused light to grace your doors, windows, and home decor.",
+    "price": "$18.00 per unit"
   },
   {
     "id": 29,
@@ -406,7 +434,8 @@
     "category_ids": [4, 1],
     "colors": ["Vibrant Talavera Patterns"],
     "min_order_quantity": 300,
-    "description": "Mexican Talavera Ceramic Tiles, adorned with vibrant Talavera patterns, bring the rich cultural heritage of Mexico to your walls and floors, creating a stunning display of tradition and artistry."
+    "description": "Mexican Talavera Ceramic Tiles, adorned with vibrant Talavera patterns, bring the rich cultural heritage of Mexico to your walls and floors, creating a stunning display of tradition and artistry.",
+    "price": "$8.99 per unit"
   },
   {
     "id": 30,
@@ -420,7 +449,8 @@
     "category_ids": [1, 5],
     "colors": ["Traditional Andean Motifs"],
     "min_order_quantity": 10,
-    "description": "Peruvian Handwoven Textiles, adorned with traditional Andean motifs, showcase the skilled artistry of Peruvian weavers, providing a unique and colorful statement for your walls and ceilings."
+    "description": "Peruvian Handwoven Textiles, adorned with traditional Andean motifs, showcase the skilled artistry of Peruvian weavers, providing a unique and colorful statement for your walls and ceilings.",
+    "price": "$9.99 per unit"
   },
   {
     "id": 31,
@@ -434,7 +464,8 @@
     "category_ids": [2, 3],
     "colors": ["Ruby Red", "Emerald Green"],
     "min_order_quantity": 10,
-    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings."
+    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
+    "price": "$9.99 per unit"
   },
   {
     "id": 32,
@@ -448,7 +479,8 @@
     "category_ids": [2, 3],
     "colors": ["Ruby Red", "Emerald Green"],
     "min_order_quantity": 10,
-    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings."
+    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
+    "price": "$9.99 per unit"
   },
   {
     "id": 33,
@@ -462,7 +494,8 @@
     "category_ids": [2, 3],
     "colors": ["Ruby Red", "Emerald Green"],
     "min_order_quantity": 10,
-    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings."
+    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
+    "price": "$9.99 per unit"
   },
   {
     "id": 34,
@@ -476,7 +509,8 @@
     "category_ids": [2, 3],
     "colors": ["Ruby Red", "Emerald Green"],
     "min_order_quantity": 10,
-    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings."
+    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
+    "price": "$9.99 per unit"
   },
   {
     "id": 35,
@@ -490,6 +524,7 @@
     "category_ids": [2, 3],
     "colors": ["Ruby Red", "Emerald Green"],
     "min_order_quantity": 10,
-    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings."
+    "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
+    "price": "$9.99 per unit"
   }
 ]
