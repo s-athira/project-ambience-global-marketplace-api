@@ -634,7 +634,7 @@
   },
   {
     "id": 31,
-    "name": "Gothic Stained Glass Panels",
+    "name": "Gothic Stained Glass Panels 1",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass2.svg",
     "more_images": [
@@ -646,7 +646,7 @@
     "dimensions": "500 x 300 x 6 mm",
     "required": "N/A",
     "weight": "~2.5 Kg",
-    "category": ["Windows", "Partitions"],
+    "category": [32, 33, 34, 35],
     "category_ids": [2, 3],
     "colors": ["Ruby Red", "Emerald Green"],
     "min_order_quantity": 10,
@@ -655,7 +655,7 @@
   },
   {
     "id": 32,
-    "name": "Gothic Stained Glass Panels",
+    "name": "Gothic Stained Glass Panels 2",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass3.svg",
     "more_images": [
@@ -669,14 +669,14 @@
     "weight": "~2.5 Kg",
     "category": ["Windows", "Partitions"],
     "category_ids": [2, 3],
-    "colors": ["Ruby Red", "Emerald Green"],
+    "colors": [33, 34, 35, 31],
     "min_order_quantity": 10,
     "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
     "price": "$9.99 per unit"
   },
   {
     "id": 33,
-    "name": "Gothic Stained Glass Panels",
+    "name": "Gothic Stained Glass Panels 3",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass4.svg",
     "more_images": [
@@ -690,14 +690,14 @@
     "weight": "~2.5 Kg",
     "category": ["Windows", "Partitions"],
     "category_ids": [2, 3],
-    "colors": ["Ruby Red", "Emerald Green"],
+    "colors": [34, 35, 31, 32],
     "min_order_quantity": 10,
     "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
     "price": "$9.99 per unit"
   },
   {
     "id": 34,
-    "name": "Gothic Stained Glass Panels",
+    "name": "Gothic Stained Glass Panels 4",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass5.svg",
     "more_images": [
@@ -711,14 +711,14 @@
     "weight": "~2.5 Kg",
     "category": ["Windows", "Partitions"],
     "category_ids": [2, 3],
-    "colors": ["Ruby Red", "Emerald Green"],
+    "colors": [35, 31, 32, 33],
     "min_order_quantity": 10,
     "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
     "price": "$9.99 per unit"
   },
   {
     "id": 35,
-    "name": "Gothic Stained Glass Panels",
+    "name": "Gothic Stained Glass Panels 5",
     "style": "Gothic Revival",
     "image": "http://localhost:8080/images/materials/gothic-stained-glass6.svg",
     "more_images": [
@@ -732,7 +732,7 @@
     "weight": "~2.5 Kg",
     "category": ["Windows", "Partitions"],
     "category_ids": [2, 3],
-    "colors": ["Ruby Red", "Emerald Green"],
+    "colors": [31, 32, 33, 34],
     "min_order_quantity": 10,
     "description": "Intricately designed Gothic Revival stained glass panels, inspired by medieval architecture, adding a touch of elegance to windows and ceilings.",
     "price": "$9.99 per unit"
