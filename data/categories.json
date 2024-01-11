@@ -21,7 +21,7 @@
     "id": 4,
     "name": "Floor Finishes",
     "image": "http://localhost:8080/images/floor-finishes-cover.svg",
-    "bannerimg": "http://localhost:8080/images/banners/floor-finishes-banner-img.svg"
+    "bannerimg": "http://localhost:8080/images/banners/floor-cover.jpg"
   },
   {
     "id": 5,
